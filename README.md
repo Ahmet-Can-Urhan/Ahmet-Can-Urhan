@@ -15,7 +15,6 @@ I'm currently focused on building practical projects while strengthening my Linu
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
