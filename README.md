@@ -1,74 +1,40 @@
-<div align="center">
+# Hi, I'm Ahmet 👋
 
-<img src="assets/banner/banner.svg" width="100%" alt="Banner"/>
+Computer Engineering student interested in **Linux**, **System Administration**, **Software Development**, and **Cybersecurity**.
 
-<br>
+I'm currently focused on building practical projects while strengthening my Linux, networking, and developing software.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Building+software...;Learning+Linux...;Exploring+Cybersecurity...;Always+improving..." />
+## 🔭 Current Focus
 
-</div>
+- LPIC-1
+- Linux Administration
+- Networking
+- C Programming
+- Java
+- Flutter
 
----
+## 🚀 Featured Projects
 
-```bash
-ahmet@github:~$ whoami
-```
+| Project | Description |
+|---------|-------------|
+| 🎮 Gladiator Last Stand | A 2D arena game developed with Unity. |
+| 🎲 Hangman Game | A Hangman game written in C using Raylib. |
+| 🐧 Linux Lab | My personal virtualization lab for learning Linux, networking, and cybersecurity. |
 
-Computer Engineering student focused on **Linux**, **System Administration**, **Software Development**, and **Cybersecurity**.
+## 💻 Tech Stack
 
-I enjoy building practical software, understanding how systems work under the hood, and continuously improving my skills through hands-on projects.
-
----
-
-```bash
-ahmet@github:~$ tree projects
-```
-
-```text
-projects
-├── Gladiator-Last-Stand/
-│   ├── Unity
-│   ├── C#
-│   └── 2D Arena Game
-│
-├── Hangman Game/
-│   ├── C
-│   ├── Raylib
-│   └── Low-Level Game Development
-│
-└── Linux-Lab/
-    ├── Arch Linux
-    ├── Ubuntu Server
-    └── Learning Environment (WIP)
-```
-
----
-
-```bash
-ahmet@github:~$ cat tech-stack
-```
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,c,java,python,dart,flutter,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,c,java,python,dart,flutter,vscode" />
 </p>
 
----
+## 📈 GitHub Stats
 
-```bash
-ahmet@github:~$ cat roadmap.md
-```
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmet-Can-Urhan&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Can-Urhan&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-```text
-[✓] Git & GitHub
-[✓] Unity
-[✓] Flutter
+## 📫 Contact
 
-[>] LPIC-1
-[ ] Docker
-[ ] Networking
-[ ] Kubernetes
-```
-
-
-
-
+- LinkedIn: *(https://www.linkedin.com/in/ahmet-can-urhan-a1668537a/)*
+- Email: *(add your email if you're comfortable sharing it)*
