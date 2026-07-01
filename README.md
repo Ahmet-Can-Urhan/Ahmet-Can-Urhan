@@ -31,10 +31,10 @@ projects
 │   ├── C#
 │   └── 2D Arena Game
 │
-├── Efficiorax/
-│   ├── Flutter
-│   ├── Dart
-│   └── Productivity App (WIP)
+├── Hangman Game/
+│   ├── C
+│   ├── Raylib
+│   └── Low-Level Game Development
 │
 └── Linux-Lab/
     ├── Arch Linux
@@ -69,20 +69,6 @@ ahmet@github:~$ cat roadmap.md
 [ ] Kubernetes
 ```
 
----
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmet-Can-Urhan&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Can-Urhan&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Always improving."*
-
-</div>
