@@ -15,11 +15,15 @@ I'm currently focused on building practical projects while strengthening my Linu
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Description |
 |---------|-------------|
-| 🎮 Gladiator Last Stand | A 2D arena game developed with Unity. |
-| 🎲 Hangman Game | A Hangman game written in C using Raylib. |
-| 🐧 Linux Lab | My personal virtualization lab for learning Linux, networking, and cybersecurity. |
+| 🎮 **[Gladiator Last Stand](https://github.com/Ahmet-Can-Urhan/Gladiator-Last_Stand)** | A 2D arena game developed with Unity. |
+| 🎲 **[Hangman Game](https://github.com/Ahmet-Can-Urhan/raylib-game)** | A Hangman game written in C using Raylib. |
+- 📋 **Efficiorax** `In Progress`  
+  A cross-platform productivity application built with Flutter, designed to help users organize work and improve focus.
+| 🐧 **Linux Lab** *(Coming Soon)* | Personal virtualization lab for Linux, networking, and cybersecurity. |
 
 ## 💻 Tech Stack
 
@@ -27,14 +31,8 @@ I'm currently focused on building practical projects while strengthening my Linu
 <img src="https://skillicons.dev/icons?i=linux,bash,git,c,java,python,dart,flutter,vscode" />
 </p>
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmet-Can-Urhan&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Can-Urhan&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ## 📫 Contact
 
 - LinkedIn: *(https://www.linkedin.com/in/ahmet-can-urhan-a1668537a/)*
-- Email: *(add your email if you're comfortable sharing it)*
+- Email: *(s4bre.py@gmail.com)*
